@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Data Source=KABIR;Initial Catalog=CoreAPI;Integrated Security=True" -Provider Microsoft.EntityFrameworkCore.SqlServer -OutputDir EF/EntityModel -f
