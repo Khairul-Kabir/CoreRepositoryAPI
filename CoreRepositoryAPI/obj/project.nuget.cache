@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BAz/dRbvidgCLZt3NwK16Vaj5c2cVnjifsD3Syxq7WAl4hvDK2QEi/ery/xyC9Ik+ZyuA0fzBkWWCo0EPpkUfQ==",
+  "dgSpecHash": "ry/JKviF5agj9osDsxvhE1mmQfTRkNVv10bROgtEQVPRawuC50CcPGvJZxvajaO5SDGKn6RmiLF6Cx2ZTDDpxA==",
   "success": true,
-  "projectFilePath": "C:\\Git-Projects\\CoreRepositoryAPI\\CoreRepositoryAPI\\CoreRepositoryAPI.csproj",
+  "projectFilePath": "C:\\Git-Projects\\CoreAPI_Git\\CoreRepositoryAPI\\CoreRepositoryAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

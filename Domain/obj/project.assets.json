@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git-Projects\\CoreRepositoryAPI\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Git-Projects\\CoreAPI_Git\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Git-Projects\\CoreRepositoryAPI\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Git-Projects\\CoreAPI_Git\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Git-Projects\\CoreRepositoryAPI\\Domain\\obj\\",
+      "outputPath": "C:\\Git-Projects\\CoreAPI_Git\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
